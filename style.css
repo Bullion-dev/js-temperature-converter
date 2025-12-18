@@ -22,6 +22,7 @@ box-shadow: 5px 5px 15px hsl(0, 0%, 0.3%);
     border: 2px solid black;
     margin-bottom: 15px;
     border-radius: 4px;
+    max-width: 100%; /* Added max-width here */
 }
 label{
     font-size 1.5em;
